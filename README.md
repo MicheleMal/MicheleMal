@@ -1,16 +1,31 @@
-### Hi there 👋
+- 🌱 I’m currently learning Nestjs
 
-<!--
-**MicheleMal/MicheleMal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Skills**
+- **Programming languages:**
+  
+  [![My Skills](https://skillicons.dev/icons?i=c,java,python)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs)](https://skillicons.dev)
+
+- **Database:**
+
+  [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+- **Technologies:**
+  
+  [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+
+- **Text Editors/IDEs:**
+
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
+
+
+## **Useful Links**
+- **[LinkedIn](https://www.linkedin.com/in/michele-malignaggi-158bba2aa/)**
+
+## **Contacts**
+- **Email**: michelemalignaggi03@gmail.com
